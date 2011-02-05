@@ -1,0 +1,12 @@
+Appy/bin/
+AppyTest/bin/
+AppyTestRE/bin/
+Appy/gen/com/appy/R.java
+.project
+.classpath
+.DS_Store
+*.swp
+*.sqlite
+.settings/
+*/**/tags
+*.db

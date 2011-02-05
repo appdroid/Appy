@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry combineaccessrules="false" kind="src" path="/Appy"/>
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="/home/priyank/android/projects/BPositiveTestRE/lib/robolectric-0.9.4-all.jar"/>
 	<classpathentry kind="lib" path="/home/priyank/android/android-sdk-linux_86/add-ons/addon_google_apis_google_inc_8/libs/maps.jar"/>
 	<classpathentry kind="lib" path="/home/priyank/android/android-sdk-linux_86/platforms/android-8/android.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Appy"/>
+	<classpathentry kind="lib" path="/home/priyank/android/projects/appy/AppyTestRE/lib/robolectric-0.9.4-all.jar" sourcepath="/home/priyank/android/projects/robolectric"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
